@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about"},[n("h1",[e._v("About")]),n("p",[e._v(" Voici une TodoList app pour le cours de reactive programming")])])}],u=n("2877"),a={},c=Object(u["a"])(a,o,r,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=about.334980ad.js.map
