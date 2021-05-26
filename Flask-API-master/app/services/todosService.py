@@ -1,0 +1,51 @@
+TODOS = [
+    {
+        'id':0,
+        'task':{
+            'name':'Eat',
+            'created_on':'2020-02-29'
+        },
+        'id_list':0,
+    },
+    {
+        'id':1,
+        'task':{
+            'name':'Sleep',
+            'created_on':'2020-03-01'
+        },
+        'id_list':0,
+    },
+    {
+        'id':2,
+        'task':{
+            'name':'Code',
+            'created_on':'2020-03-02'
+        },
+        'id_list':0,
+    },
+    {
+        'id':4,
+        'task':{
+            'name':'Repeat',
+            'created_on':'2020-03-03'
+        },
+        'id_list':0,
+    },
+    {
+        'id':3,
+        'task':{
+            'name':'Compile (but compiling is doubting)',
+            'created_on':'2020-04-01'
+        },
+        'id_list':1,
+    },
+    {
+        'id':4,
+        'task':{
+            'name':'Repeat',
+            'created_on':'2020-04-07'
+        },
+        'id_list':1,
+    },
+  
+]
