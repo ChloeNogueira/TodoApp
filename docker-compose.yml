@@ -1,0 +1,16 @@
+version: '3'
+services:
+ flaskapi:
+  build: ./Flask-API-master
+  container_name: mydocker-api
+  ports:
+   - 5000:5000
+  restart: always
+ frontvue:
+  depends_on: 
+   - flaskapi
+  build: ./todoapp
+  container_name: mydocker-frontvuejs
+  ports:
+   - 8080:8080
+  restart: always
